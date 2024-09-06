@@ -24,7 +24,7 @@ Convert from PLN to EUR, USD, CHF, and GBP with just a few clicks. Enjoy hassle-
 
 ## Demo
 
-https://akutuzova11.github.io/Currency-converter/
+https://akutuzova11.github.io/currency-converter/
 
 ## Contributing
 
