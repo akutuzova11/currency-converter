@@ -1,8 +1,9 @@
 
 # Currency Converter
 
-This web application serves as a user-friendly currency converter that enables you to effortlessly convert popular currencies. 
-You can convert from PLN to EURO, USD, CHF, and GBP with ease.
+This web application is your go-to tool for quick and easy currency conversions. 
+
+Convert from PLN to EUR, USD, CHF, and GBP with just a few clicks. Enjoy hassle-free conversions every time!
 
 ![](https://github.com/akutuzova11/Currency-converter/blob/main/gif%20for%20readme.gif)
 
